@@ -1,14 +1,6 @@
 # Web-Programing
 
-
-<p style="font-style:bold">
-    Khoerul Anam
-</p>
-
-belajar oop
-
-
-
+Khoerul Anam
 
 
 <div class="overall-summary overall-summary-bottomless">
