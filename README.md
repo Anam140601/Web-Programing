@@ -66,9 +66,11 @@ Khoerul Anam
                     <p class="mb-2 get-repo-decription-text">
                         Copy perintah git di bawah lalu pastekan di git kamu untuk download/clone.
                     </p>
-                    <p>
-                        git clone https://github.com/Anam140601/Laravel.git
-                    </p>
+                    
+                    <form>
+                        <input value="git clone https://github.com/Anam140601/Laravel.git" width="100">
+                    </form>
+                    
                     <br>
                     <br>
                
