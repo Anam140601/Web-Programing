@@ -35,7 +35,7 @@ Khoerul Anam
                     </p>
                     
                     <form>
-                        <input value="git clone https://github.com/Anam140601/OOP.git>
+                        <input value="git clone https://github.com/Anam140601/OOP.git">
                     </form>
                     
                     <br>
